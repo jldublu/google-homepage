@@ -59,12 +59,12 @@ nav {
     height: 40px;
     width: 40px;
     border-radius: 2px;
-    padding: 8px;
+    padding: 25px 0px 8px 0px;
 }
 
 .products span {
     color: #5f6368;
-    vertical-align: middle;
+    vertical-align: bottom;
 }
 
 .nav-link {
